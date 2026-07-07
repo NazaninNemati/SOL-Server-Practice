@@ -16,7 +16,7 @@ FROM customers
 ORDER BY points DESC
 
 
-/*
+
 --11 order by
 SELECT *, quantity*unit_price AS total
 FROM order_items
@@ -107,4 +107,3 @@ ORDER BY first_name
 
 
 
-*/
